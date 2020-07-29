@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.b{
+    background-color: white;
+    height: 40rem;
+   /* background-image: url(img/grape3.jpg);*/
+   text-align: center;
+   padding-top: 5rem;
+}
+.col-lg-5{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.c{
+    background-color: #142844;
+    /* height: 40rem; */
+    /* width: 100%; */
+    color: white;
+    font-size:1rem;
+    padding: 2rem;
+    
+
+}
+.bg{
+    background-color: #142844;
+}
+.image{
+    height: 20rem;
+    background-clip: content-box;
+}
+.form-control{
+    background-color: #142844;
+    border-radius:15px;
+    border: 2px solid #000;
+}
+.btn{
+    background-color: #142844;
+    border-radius:15px;
+    border: 1px solid #000;
+}
+.btn-new{
+    color: #FFFFFF;
+    background-color: blue;
+    cursor: pointer;
+    text-align: center;
+    padding: 1rem 0 1rem 0;
+    margin-top: .5rem;
+}
+.half-circle{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    /* border-radius: 10px; */
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    /* border: 1px solid; */
+}
+.circle-text{
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+    

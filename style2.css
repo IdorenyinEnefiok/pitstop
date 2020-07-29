@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topheader p{
+    font-size: 0.4rem;
+}
+.row{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.header{
+    background:linear-gradient(to right) url(./img/bgimage.jpg) ;
+}

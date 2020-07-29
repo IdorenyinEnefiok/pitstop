@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-color: #161616;
+}
+
+.hero{
+    border: 3px solid white;
+    margin-top: 1rem;
+    background-image: url(img/bg-grape.jpg) !important;
+    height: 70vh;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+}
+.h3{
+    text-align: center;
+    color: white;
+}
+.box1{
+    height: 15rem;
+    background-color: yellowgreen;
+    background-image: url(img/grape3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #ffffff;
+    
+}
+.box2{
+    height: 15rem;
+    background-color: violet;
+    background-image: url(img/coins.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #ffffff;
+    
+}
+.box3{
+    height: 15rem;
+    background-color: turquoise;
+    background-image: url(img/grape1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #ffffff;
+   
+}
+.b{
+    height: 15rem;
+    background-color: turquoise;
+    background-image: url(img/grape.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #ffffff; 
+}
+/*input[type=email]{
+    height: 50px !important;
+}*/
+ul li a:hover{
+    border-bottom: 5px solid #ffb20f;
+}
+.demo1{
+    color:#ffb20f;
+}
+.demo2{
+    color:#ffb20f;
+}
+.demo3{
+    color:#ffb20f;
+    
+}
+.demo{
+    height: 100px;
+    width: 18rem;
+}
+.mo{
+    width: 18rem; 
+}
+.mo1{
+    width: 18rem; 
+}
